@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ian
-- 👀 I’m interested in learning python, data science, and whgatever my coding journey throws at me!
+- 👀 I’m interested in learning python, data science, and whatever my coding journey throws at me!
 - 🌱 I’m currently learning to code python!
 - 📫 How to reach me at imccright@gmail.com
 
